@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "korala": {
+      "url": "https://api.korala.ai/mcp"
+    }
+  }
+}
